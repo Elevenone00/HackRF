@@ -11,6 +11,10 @@ Hardware required:
 
 - https://lab401.com/es-es/products/hackrf-one
 
+Tutorial:
+
+- https://www.youtube.com/watch?v=3NWn5cQM7q4
+
 References used:
 
 - https://www.rtl-sdr.com/using-a-hackrf-for-gps-spoofing-on-windows/
