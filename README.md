@@ -11,6 +11,10 @@ Hardware required:
 
 - https://lab401.com/es-es/products/hackrf-one
 
+The daily GPS broadcast ephemeris file (brdc):
+
+- https://cddis.nasa.gov/archive/gnss/data/daily/
+
 Tutorial:
 
 - https://www.youtube.com/watch?v=3NWn5cQM7q4
