@@ -31,7 +31,7 @@ How to do:
 
 > gcc gpssim.c -lm -O3 -o gps-sdr-sim -DUSER_MOTION_SIZE=4000
 
-2º) Generate .bin with coordenades
+2º) Generate .bin with coordinates
 
 > gps-sdr-sim -e brdc0140.25n -b 8 -l 25.761975,-80.193620,100
 
