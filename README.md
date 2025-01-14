@@ -4,7 +4,7 @@
 
 To install Software used to Spoof GPS:
 
-- https://downloads.myriadrf.org/builds/PothosSDR/
+- https://hackrf.readthedocs.io/en/latest/hackrf_tools.html
 
 
 Hardware required:
