@@ -1,22 +1,20 @@
 # HackRF
 
 
-
-To install Software used to Spoof GPS:
-
-- https://hackrf.readthedocs.io/en/latest/hackrf_tools.html
-
 Hardware required:
 
 - https://lab401.com/es-es/products/hackrf-one
+
+
+Software to use HackRF One:
+
+- https://hackrf.readthedocs.io/en/latest/hackrf_tools.html
+
 
 The daily GPS broadcast ephemeris file (brdc):
 
 - https://cddis.nasa.gov/archive/gnss/data/daily/
 
-Tutorial:
-
-- https://www.youtube.com/watch?v=3NWn5cQM7q4
 
 References used:
 
@@ -24,8 +22,9 @@ References used:
 - https://greatscottgadgets.com/hackrf/
 - https://github.com/greatscottgadgets/hackrf
 - https://github.com/osqzss/gps-sdr-sim
+- https://www.youtube.com/watch?v=3NWn5cQM7q4
 
-How to do:
+Step by step (Linux/Windows/iOS):
 
 1º) Compile gpssim.c
 
@@ -37,5 +36,5 @@ How to do:
 
 3º) Spoof GPS!!
 
-> hackrf_transfer -t gpssim.bin -f 1575420000 -s 2600000 -a 1 -x 0
+> hackrf_transfer -t gpssim.bin -f 1575420000 -s 2600000 -a 1 -x 10
 
