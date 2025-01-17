@@ -1,11 +1,11 @@
 # HackRF One
 
-#-------------------------------------------------#
+#
 Alumno 1: Joaquín Razola Díaz
 Alumno 2: Antonio Aguilera González 
 Asignatura: Sistemas Electrónicos Integrados (SEI) 
 Curso: 2024-2025
-#-------------------------------------------------#
+#
 
 
 Hardware required:
