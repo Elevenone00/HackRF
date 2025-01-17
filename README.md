@@ -1,4 +1,4 @@
-# HackRF One
+# Proyecto realizado: GPS Spoofing mediante HackRF One
 
 #
 Alumno 1: Joaquín Razola Díaz
